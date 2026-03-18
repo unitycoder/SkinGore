@@ -1,0 +1,21 @@
+{
+	"name": "com.unitycoder.skingore",
+	"displayName": "SkinGore",
+	"version": "1.0.0",
+	"unity": "2019.4",
+	"description": "SkinGore is a dynamic gore and injury decal system for animated, skinned meshes.\n\nFeatures:\n\u25AA Apply gore/injury decals to animated skinned meshes\n\u25AA GPU-accelerated damage accumulation buffer\n\u25AA Very performant even with many instances\n\u25AA Supports blend shapes\n\u25AA Transfer damage state to new renderers (e.g. ragdolls)\n\nTo add damage to a character, add a SkinGoreRenderer component and call SkinGoreRenderer.AddDamage() with a world space position, radius, and strength.",
+	"author": {
+		"name": "unitycoder",
+		"url": "https://github.com/unitycoder"
+	},
+	"changelogUrl": "https://github.com/unitycoder/SkinGore/blob/master/CHANGELOG.md",
+	"documentationUrl": "https://github.com/unitycoder/SkinGore/blob/master/README.md",
+	"licensesUrl": "https://github.com/unitycoder/SkinGore/blob/master/LICENSE",
+	"samples": [
+		{
+			"displayName": "Gore Samples",
+			"description": "Example scene with a mannequin demonstrating the gore system. Click on the mannequin to mutilate it!",
+			"path": "Samples~/GoreSamples"
+		}
+	]
+}
