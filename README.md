@@ -1,3 +1,10 @@
+### Installation
+
+**Install via Package Manager → Add package from git URL:**
+```
+https://github.com/unitycoder/SkinGore.git
+```
+
 # SkinGore
  SkinGore is a dynamic gore and injury decal system I created for Vertigo 2. It can be applied to animated, skinned meshes, and is very performant even with many instances in a scene.
  
