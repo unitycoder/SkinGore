@@ -1,0 +1,10 @@
+{
+    "name": "Mgear.SkinGore.Editor",
+    "references": [
+        "Mgear.SkinGore"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
